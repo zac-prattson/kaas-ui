@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Ye Quote Generator",
+  "name": "Ye Quote Generator",
   "icons": [
     {
       "src": "favicon.ico",
