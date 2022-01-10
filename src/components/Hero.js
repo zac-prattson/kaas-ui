@@ -8,8 +8,8 @@ const Hero = () => {
         <p className="lead">Random Kayne West quotes at your service</p>
         <hr className="my-4" />
         <p>
-          React application that uses a Flask API deployed with Zappa on AWS
-          Lambda to serve Kanye West quotes from{" "}
+          React application deployed with AWS Amplify that uses a Flask API
+          deployed with Zappa on AWS Lambda to serve Kanye West quotes from{" "}
           <a href="https://kanye.rest/">Kayne REST API</a>.
         </p>
       </div>
